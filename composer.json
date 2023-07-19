@@ -23,7 +23,8 @@
         "drush/drush": "^11 || ^12",
         "pantheon-systems/quicksilver-pushback": "^2.1",
         "drupal/devel": "^5.0",
-        "drupal/admin_toolbar": "^3.4"
+        "drupal/admin_toolbar": "^3.4",
+        "drupal/webform": "^6.1"
     },
     "require-dev": {
         "drupal/core-dev": "^9.2",
